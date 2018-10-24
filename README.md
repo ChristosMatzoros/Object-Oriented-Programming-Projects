@@ -5,7 +5,7 @@ CE325 Object Oriented Programming Team Projects
 > Giannoukos Triantafyllos-Anargyros 
 #### Project1:
 > Arithmetic calculator implementation in Java
-### Project2:
+#### Project2:
 > Image processing application in Java
 #### Project3:
 > Sudoku puzzle application in Java and Swing
