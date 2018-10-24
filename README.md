@@ -1,13 +1,13 @@
 # CE325
 CE325 Object Oriented Programming Team Projects
-##Students:
+### Students:
 Matzoros Christos-Konstantinos
 Giannoukos Triantafyllos-Anargyros 
-###Project1:
+#### Project1:
 Arithmetic calculator implementation in Java
-###Project2:
+### Project2:
 Image processing application in Java
-###Project3:
+#### Project3:
 Sudoku puzzle application in Java and Swing
-###Project4:
+#### Project4:
 Implementation of a Hash-Table application in C++
