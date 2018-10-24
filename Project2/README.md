@@ -1,0 +1,1 @@
+Image processing application in Java
